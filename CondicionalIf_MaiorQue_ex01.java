@@ -17,13 +17,13 @@ public class CondicionalIf_MaiorQue_ex01 {
 		System.out.println("Digite o Terceiro número: ");
 		n3 = leia.nextFloat();
 		
-		if (n1 + n2 == n3){
-			System.out.println("A somo do primeiro número com o segundo é igual ao terceiro");
-		}else if (n1 + n2 >= n3) {
-			System.out.println("A soma do primeiro número com o segundo é Maior que o terceito");
+		if (n1 + n2 == n3) {
+			System.out.println("A soma do primeiro e segundo número é igual que o terceiro");
+		} else if (n1 + n2 >= n3) {
+			System.out.println("A soma do primeiro e segundo número é mair que o terceiro");
 		} else {
-			System.out.println("A soma do primeiro número com o segundo é Menor que o terceiro");
-		} 
+			System.out.println("A soma do primeiro e segundo número é menor que o terceiro");
+		}
 	}
 
 }
