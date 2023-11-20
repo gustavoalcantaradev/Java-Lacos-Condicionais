@@ -2,7 +2,7 @@ package LacoDecisao;
 
 import java.util.Scanner;
 
-public class CondicionalIf_MaiorQue_ex01 {
+public class MaiorQue_ex01 {
 
 	public static void main(String[] args) {
 		

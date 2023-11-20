@@ -2,7 +2,7 @@ package LacoDecisao;
 
 import java.util.Scanner;
 
-public class CondicionalSwitch_Lanchonete_ex05 {
+public class Switch_Lanchonete_ex05 {
 
 	public static void main(String[] args) {
 		

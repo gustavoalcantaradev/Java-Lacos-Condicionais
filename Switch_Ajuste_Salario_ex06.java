@@ -2,7 +2,7 @@ package LacoDecisao;
 
 import java.util.Scanner;
 
-public class CondicionalSwitch_Ajuste_Salario_ex06 {
+public class Switch_Ajuste_Salario_ex06 {
 
 	public static void main(String[] args) {
 		

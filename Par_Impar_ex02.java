@@ -2,7 +2,7 @@ package LacoDecisao;
 
 import java.util.Scanner;
 
-public class CondicionalIf_Par_Impar_ex02 {
+public class Par_Impar_ex02 {
 
 	public static void main(String[] args) {
 		
